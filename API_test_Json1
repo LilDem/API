@@ -1,0 +1,101 @@
+[{
+		"userId": "1",
+		"Date": "12/31/2001",
+		"Phone Number": "877.603.1310",
+		"Email": "abcd123@gmail.com",
+		"ZipCode": "12345",
+		"Price": "100$"
+	},
+	{
+		"userId": "2",
+		"Date": "31-12-2001",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc123@gmail.com",
+		"ZipCode": "12345-1234",
+		"Price": "10.000AMD"
+	},
+	{
+		"userId": "3",
+		"Date": "12/31/2001 13:00",
+		"Phone Number": "8776031310",
+		"Email": "abc@gmail.ru",
+		"ZipCode": "123451234"
+	},
+	{
+		"userId": "4",
+		"Date": "31-12-2001 13:00",
+		"Phone Number": "877603131033",
+		"Email": "abc@gmail.ru",
+		"ZipCode": "12-3451234"
+	},
+	{
+		"userId": "5",
+		"Date": "12/31/2001 13:00:13",
+		"Phone Number": "+1877603131",
+		"Email": "abc@gmail.ru",
+		"ZipCode": "12345 1234"
+	},
+	{
+		"userId": "6",
+		"Date": "31-12-2001 13:00:13",
+		"Phone Number": "18776031",
+		"Email": "abc@gmail.com",
+		"ZipCode": "US-12345"
+	},
+	{
+		"userId": "7",
+		"Date": "31-12-2001 13:00:13",
+		"Phone Number": "+1877603131",
+		"Email": "abc@gmail.ru",
+		"ZipCode": "US-12345"
+	},
+	{
+		"userId": "8",
+		"Date": "31-December-2001",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "9",
+		"Date": "December-2001",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "10",
+		"Time": "December 2001",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "11",
+		"Time": "Dec 2001",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "11",
+		"Time": "Jun-2019",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "12",
+		"Time": "12:00:13",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	},
+	{
+		"userId": "13",
+		"Time": "12:00:",
+		"Phone Number": "(877) 603 1310",
+		"Email": "abc@gmail.com",
+		"ZipCode": "12345-1234"
+	}
+]
