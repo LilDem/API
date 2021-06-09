@@ -7,7 +7,7 @@
 		 "age":30,
 		 "employee":{"name":"John", "age":30, "city":"New York"},
 		 "employees":[ "John", "Anna", "Peter" ],
-		 "sale":true, 
+		 "sale":false, 
 		"Price": "100$"
 	},
 	{
