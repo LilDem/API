@@ -4,6 +4,10 @@
 		"Phone Number": "877.603.1310",
 		"Email": "abcd123@gmail.com",
 		"ZipCode": "12345",
+		 "age":30,
+		 "employee":{"name":"John", "age":30, "city":"New York"},
+		 "employees":[ "John", "Anna", "Peter" ],
+		 "sale":true, 
 		"Price": "100$"
 	},
 	{
